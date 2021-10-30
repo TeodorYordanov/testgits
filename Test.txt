@@ -1,4 +1,2 @@
 This is a test.
 Fisrt change after first commit.
-Change data
-CHange data2
